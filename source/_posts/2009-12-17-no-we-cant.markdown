@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "\"No We Can't\": Engineers Today Are Lazy"
+published: true
+meta: 
+  _edit_last: "2"
+tags: 
+- accountability
+- duckhunt
+- Innovation
+- thoughts
+type: post
+status: publish
+---
+{% img /images/uploads/duckhunt.jpg 480 478 duckhunt %}
+
+Some coworkers and myself had a nice discussion over dinner tonight about how things have changed over time.  More particularly, we talked about the wildly popular game "Duck Hunt".  Yes, the Nintendo one.  How in the world does that thing work?  After some discussion, <a href="http://twitter.com/nathanbrunson">Nate Brunson</a> finally whipped out his iPhone and came across this article <a href="http://www.howstuffworks.com/question273.htm">detailing how Duck Hung works</a>.  It's all pretty interesting stuff, and it was all done way before its day.
+<h2>But Nintendo wasn't Agile!</h2>
+The thing is, if Nintendo were made in the "agile" world of today, would it have been released with Duck Hunt?  Would Duck Hunt ever had existed?  My inclination is no.  It would have been labeled as "too much scope for the first increment, we should release Mario Brothers, analyze the results, and go from there".  Immediately following Mario Brothers, which would be a hit (obviously), they would follow up with Mario Bros 2, because hey, the first one did well.  After 2, the third increment would be... (surprise) Mario Bros 3.  Eventually the idea of Duck Hunt would have been forgotten.
+<h2>If you want to change the world, don't wait until the next increment</h2>
+The point is that sometimes innovation comes at a cost.  You can't always slim down functionality to meet a deadline, and still expect to be innovative.  If there is an <strong>incredible idea</strong> out there to be had, even if you're not sure what kind of time it will take, resources need to be devoted, or even if it's possible, you still need to just go for it.
+<h2>Where did we go wrong?</h2>
+Why are we so afraid to just get things done?  I personally thinks it comes down to <strong>people not wanting accountability</strong>, or they want to be absolutely positive that they can do what they say.  They are afraid to stretch themselves.  They really don't care about being innovative.  They care about the business, about money, and about following a "standard procedure" or "following the most effective way of doing something".  <a href="http://sethgodin.typepad.com/">Seth Godin</a> is very popular and incredibly successful because he <strong>gives</strong> people the magic formula to creating a good product.  The only problem is that he doesn't do it for you.  I'm not saying processes are a bad thing, I'm just saying that eventually some crazy guy needs to sit down, do the impossible, and get it done.  Don't believe me?  How about the names Steve Wozniak, Ed Logg, or Brad Fitzpatrick?  Chew on them apples....

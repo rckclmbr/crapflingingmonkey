@@ -1,0 +1,26 @@
+--- 
+layout: page
+title: About
+published: true
+meta: 
+  _edit_last: "2"
+  _wp_page_template: default
+tags: []
+
+type: page
+status: publish
+---
+Crap Flinging Monkey is a simple site about developer hell.  It was spawned from an IRC conversation, which I happen to have a log of:
+
+12:31 &lt; josh&gt; we should ditch gomez and use this
+12:31 &lt; josh&gt; http://www.uptimeparty.com/
+12:37 &lt;@bpreston&gt; how about we ditch you and use this - http://crapflingingmonkey.com
+12:37 &lt; phUnk&gt; lollin'
+12:38 &lt;@bpreston&gt; I have a keyboard wallposter it can "type" its code on
+12:39 &lt; phUnk&gt; %whatis bpreston
+12:39 &lt; shake&gt; phUnk: "bpreston" could be the winnar
+12:40 &lt; phUnk&gt; i'm inclined to agree.
+12:41 &lt;@bpreston&gt; \o/
+12:47 &lt; josh&gt; bpreston: i think i'm going to buy that and use it as my blog
+
+Immediately after saying that, I rushed to purchase the blog.  Only a few seconds after I purchased it, bpreston pinged me on IRC and said a simple "I hate you".  It turned out, I got the domain right before he did!  So, instead of letting it sit there like all the other sites, I figured I would turn it into something.  And here it is.
