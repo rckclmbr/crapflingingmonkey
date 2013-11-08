@@ -6,6 +6,7 @@ require "stringex"
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "arnie@plannedproject.com"
 ssh_port       = "22"
+key_file       = ""
 document_root  = "/var/www/www.crapflingingmonkey.com/"
 rsync_delete   = true
 deploy_default = "rsync"
@@ -237,7 +238,9 @@ task :rsync do
     exclude = "--exclude-from '#{File.expand_path('./rsync-exclude')}'"
   end
   puts "## Deploying website via Rsync"
-  ok_failed system("rsync -avze 'ssh -p #{ssh_port}' #{exclude} #{"--delete" unless rsync_delete == false} #{public_dir}/ #{ssh_user}:#{document_root}")
+  cmd = "rsync -avze 'ssh -i #{key_file} -p #{ssh_port}' #{exclude} #{"--delete" unless rsync_delete == false} #{public_dir}/ #{ssh_user}:#{document_root}"
+  puts cmd
+  ok_failed system(cmd)
 end
 
 desc "deploy public directory to github pages"
